@@ -994,7 +994,7 @@ p {
 .modal-form-check:checked + .modal-form-check-desc::before {
   border-color: var(--accent-color);
   background-color: var(--accent-color);
-  background-image: url('./images/icon-check-modal.svg');
+  background-image: url('../images/icon-check-modal.svg');
   background-size: contain;
   background-repeat: no-repeat;
 }
