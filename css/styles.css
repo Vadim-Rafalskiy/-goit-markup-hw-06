@@ -985,8 +985,8 @@ p {
   margin-right: 7px;
   cursor: pointer;
   content: '';
-  -o-transition-property: border-color;
-  -o-transition-property: background-color;
+  transition-property: border-color;
+  transition-property: background-color;
   transition-duration: var(--standart-transition-time);
   transition-timing-function: var(--standart-cubic-bezier);
 }
