@@ -1002,7 +1002,7 @@ p {
   background-image: url('../images/icon-check-modal.svg');
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: center center;
 }
 
 .modal-form-check:focus + .modal-form-check-desc::before {
